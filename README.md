@@ -12,7 +12,7 @@ An Android weather app built with Kotlin and Jetpack Compose using the OpenWeath
 ## How to Run
 1. Clone this repo
 2. Open in Android Studio
-3. Run on emulator or device (API 21
+3. Run on emulator or device (API 21+)
 
 ## Author
 https://github.com/BredaK
